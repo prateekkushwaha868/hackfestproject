@@ -1,7 +1,7 @@
 import time
 
 # Acknowledgment
-print("This Olympics Quiz program is designed by Prateek Kushwaha and Shamistha Maurya.")
+print("This Olympics Quiz program is designed by Prateek Kushwaha and Hardik Maheshwari.")
 time.sleep(2)
 print("We have worked on creating engaging questions to test your knowledge about the Olympics!")
 time.sleep(2)
